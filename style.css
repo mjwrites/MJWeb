@@ -24,6 +24,10 @@ a{
 	color: #FAFAFA;
 }
 
+h2{
+	margin-top: -2px;
+}
+
 .overlay{
 	background: rgba(0,0,0 ,0.5);
 	width: 100vw;
@@ -62,6 +66,3 @@ a{
 	width: 200px;
 }
 
-h2{
-	margin-top: -2px;
-}
